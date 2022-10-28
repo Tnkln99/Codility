@@ -1,0 +1,4 @@
+C:/Users/tanku/Documents/Projects/Codility/cmake-build-debug/CMakeFiles/lib.dir
+C:/Users/tanku/Documents/Projects/Codility/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/tanku/Documents/Projects/Codility/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tanku/Documents/Projects/Codility/cmake-build-debug/CMakeFiles/rebuild_cache.dir
